@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou Isadora Pimenta</h1>
-Trabalho no Suporte Técnico do Asaas, no squad de Sucesso de Integrações (API) como Jovem Aprendiz. Estou no terceiro semestre no técnologo em Análise e desenvolvimento de Sistemas na Universidade de Santa Catarina (UDESC)!
+Atualmente, sou Jovem Aprendiz no Suporte Técnico do Asaas, integrando o squad de Sucesso de Integrações (API). Estou cursando o terceiro semestre do tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade do Estado de Santa Catarina (UDESC).
 
 ## O que eu estou aprendendo
   
